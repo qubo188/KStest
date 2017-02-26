@@ -1,0 +1,25 @@
+# Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+*.classes
+
+## Eclipse
+.settings/
+.classpath
+.project
+
+## IDEA
+*.iws
+*.iml
+*.ipr
+.idea/
+
+.DS_Store
+
+dev.properties
+product.properties
+
+*.log
