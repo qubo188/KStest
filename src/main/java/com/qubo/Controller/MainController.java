@@ -14,4 +14,12 @@ public class MainController {
     public void jiaojian_method02(){
 
     }
+
+    public void method01(){
+
+    }
+    public void method02(){
+
+
+    }
 }
